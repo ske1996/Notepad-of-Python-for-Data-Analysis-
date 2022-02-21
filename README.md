@@ -2,4 +2,4 @@
 Some notepad which are for  Data analysis with Python  
   
   
-**Mainly witten in Simplified Chinese,mixed some Japanese.**
+**Mainly written in Simplified Chinese,mixed some Japanese.**
